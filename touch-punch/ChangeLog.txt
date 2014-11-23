@@ -1,0 +1,4 @@
+Version 0.2.3.a (05/23/2014)
+
+Changes: prevent touch on jqueryui cancel & allow native click (to support focus on dynamic controls) by selective preventDefault.
+
